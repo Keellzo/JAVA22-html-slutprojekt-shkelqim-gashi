@@ -63,19 +63,19 @@ li a {
 }
 
 #image-start {
-    background-image: url(./images/IMG-0053.PNG);
+    background-image: url(../images/IMG-0053.PNG);
 }
 
 #image-bank {
-    background-image: url(./images/bankapp.jpg);
+    background-image: url(../images/bankapp.jpg);
 }
 
 #image-verona {
-    background-image: url(./images/Veronabild.jpeg);
+    background-image: url(../images/Veronabild.jpeg);
 }
 
 #image-manager {
-    background-image: url(./images/managerpic.png);
+    background-image: url(../images/managerpic.png);
 }
 
 
